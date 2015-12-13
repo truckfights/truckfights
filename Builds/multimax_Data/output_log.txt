@@ -1,0 +1,122 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 755M (ID=0xDcdr)
+ 3   
+V   Version:  Dire
+ct3D 11.0 [level 11.0]
+
+    Renderer: NVIDIA GeForce GT 755M (ID=0xfcd)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoBegigerMoRnloaMAsnaegery 
+ReloadAssembly
+Plltfatmfossmembsemyb l:\:Us:\rss\rs\rnly00t0\De0skeos\dktopa\\Mad\Beilds\muMtamaxBuaialManaged\Umaty_ngint.dll (this m\ssnigetyEngaine.dll 
+(this mading C:\Users\nyr)
+l_000Load\Deskt\Users\nyrtl_ax\0\Deskstmulti\adev\Max\Max\Builds\mEnginu.lll iiax_Danity CtildM aoaged\U
+nityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Desktop\dPl\MafxoMrm auilds\mult:\UserDs\nyrtl_000\Asesktbp\deCShavp.dll\Maxto Unity Child Domain
+Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Paataged\Asseemblym C:y-CSharp.yrtl_0d0\Desktop\dev\MChild Domainds\mul
+imax_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Desktop\dev\MaP\Maafo\Burm a\ssemblay: C:\UManagsd\UnityEngine.UI.dll into Unity Cxild \omuiil
+ds\multimax_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\DePktotfp\dev\Mamxl\Max:\Buersinydstl_000\Dmsatx_Datv\Maxa\ed\UnitiElgds\multidllx into Mnity Cdhildt DoginmaNitn
+rking.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Daatform assegmdbUliyyEng:\UseNrs\nykinr.dl_l intosktop\dev\ild DoMain\
+Builds\multimax_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+LoaPilntform assembly: t:lU_ers0\\yDeskto0\dDeev\Max\Max\Builds\muiult\imax_DataD\Manaaned\UdityEntgingen..AnaNyetworking.dhis mlss into Uge is harmless)
+in
+Loading C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngPne.Analytics.dml iy:to C:\Users\nyrtl_00n0
+\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngine.Analytics.dll (this message is hPrmlaefors s)
+emblLoading C:\Users\l_000nDeyktop\retlMa000\De\Buip\dev\ultMax\Max\BuialadedsUn\multimax_Datwar\Mnanaged(this\mesitagy isgihaemless.
+Analytics.dll into Unity Child Domain
+Loading C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_DataPMlatform assembgly:.Networki g.:dUlers\n intoyUnity000Ch\Deskomaide
+v\Max\Max\Builds\multimax_Data\Managed\UnityEngine.Networking.dll (this mesPlatformharmlebly: s:sUsers)n
+rtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngine.Lo.ddlln(thC:\Usssage is harmless)
+op\dev\Max\Max\Builds\multimax_DatL\Managed\UnistryEngrne.NetwoDeskiongdev\Maxto Unituy Child DiomaiDn
+a\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.054 seconds
+- Completed reload, in  0.055 seconds
+dedktop:to1p: x1920 59080 59iHz;a v ir2tu1al0: 192,0
+x1080 at 0,0
+<RI> Initial<zRI> Initial
+izing input.
+<RI> Input iniitializzed.
+
+<RI> Initialized touch support.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\System.dll (this message is harmless)
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:51491}
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 755M (ID=0xfcd)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\nyrtl_000\Desktop\dev\Max\Max\Builds\multimax_Data\Managed\System.dll (this message is harmless)
+LogL og: coninn ec} ion {1} has been disc by timeodt  bdyr stime:ffff:127r0e0s1:58940}
+f:127.0.0.1:7777}
+UNet Client Disconnect Error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+<RI.Hid> Failed to create device file:
+ 20 The process cannot acce<s Ihe.filHid> Fase it is breete g used by ano
+ther perocoesss c
+
+ 
+(Filename:  hLifnle  ecause
+ 
+it is being used by another process.
+
+ 
+(Filename:  Line: 54)
+
+Socket: bind failed, error: Only one usage of each socket address (protocol/network address/port) is normally permitted.StartServer listen failed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Socket: bind failed, error: Only one usage of each socket address (protocol/network address/port) is normally permitted.StartServer listen failed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Socket: bind failed, error: Only one usage of each socket address (protocol/network address/port) is normally permitted.StartServer listen failed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Socket: bind failed, error: Only one usage of each socket address (protocol/network address/port) is normally permitted.StartServer listen failed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
