@@ -48,6 +48,8 @@
   <ItemGroup>
      <Compile Include="Assets\scripts\BasicAIMovement.js" />
      <Compile Include="Assets\scripts\BuzzerScript.js" />
+     <Compile Include="Assets\scripts\WinCondition.js" />
+     <Compile Include="Assets\scripts\autoKill.js" />
      <Compile Include="Assets\scripts\cameraMovement.js" />
      <Compile Include="Assets\scripts\enemyProjectile.js" />
      <Compile Include="Assets\scripts\externturret.js" />
